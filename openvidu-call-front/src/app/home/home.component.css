@@ -110,6 +110,7 @@ h4 {
   position: relative;
   border-radius: 10px 5px 10px 0px;
   text-align: left;
+  opacity: 0.8;
 }
 
 .inputForm {
@@ -132,7 +133,7 @@ h4 {
   font-size: 16px;
   font-weight: bold;
   padding: 0 20px;
-  background: #00ad4e;
+  background: #f56947;
   color: #fff;
   border-radius: 0px 5px 10px 0px;
   transition: 0.3s;
@@ -141,7 +142,7 @@ h4 {
 }
 
 .joinButton:hover {
-  background: #009242;
+  background: #cc583b;
 }
 
 
