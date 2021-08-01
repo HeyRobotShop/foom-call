@@ -140,6 +140,12 @@ h4 {
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
   margin: 0px;
 }
+.jb {
+  background: #f56947;
+}
+.jb:hover {
+  background: #cc583b;
+}
 
 .joinButton:hover {
   background: #cc583b;
