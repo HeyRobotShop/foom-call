@@ -5,7 +5,7 @@
 
 [![][OpenViduLogo]](http://openvidu.io)
 
-openvidu-call
+foom-call
 ===
 
 Visit [openvidu.io/demos](http://openvidu.io/demos#3)
